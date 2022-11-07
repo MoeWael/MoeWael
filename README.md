@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moewael&label=Profile%20views&color=0e75b6&style=flat" alt="moewael" /> </p>
 
-- 🚗 Head of Embedded Control Team at **Cairo University Racing Team - Formula Student**
+- 🚗 Head of Embedded Control Team at **CURT - Formula Student**
 
 - 🔭 I’m currently working on **Sign Language Translation**
 
