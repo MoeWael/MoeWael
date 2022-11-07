@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Udx09RmE6LNO5grcbCIORan52REZ7yA_/view?usp=share_link](https://drive.google.com/file/d/1Udx09RmE6LNO5grcbCIORan52REZ7yA_/view?usp=share_link)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mohammadwael54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadwael54" height="30" width="40" /></a>
 <a href="https://fb.com/moee.wael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moee.wael" height="30" width="40" /></a>
