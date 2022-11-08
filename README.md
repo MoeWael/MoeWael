@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohammad.wael1101@gmail.com**
 
-- 📄 Know about my experiences [CV]([CV](https://drive.google.com/file/d/1Udx09RmE6LNO5grcbCIORan52REZ7yA_/view?usp=share_link))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Udx09RmE6LNO5grcbCIORan52REZ7yA_/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
